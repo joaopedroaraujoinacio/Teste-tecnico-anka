@@ -46,7 +46,7 @@ Rode o servidor de desenvolvimento
 >npm run dev
 
 Considerações finais:
-E por fim, esse projeto, que seguiu a dica de ouro, está funcional localmente e cumpre a maioria dos requisitos técnicos propostos.
+e por fim, esse projeto, que seguiu a dica de ouro, está funcional localmente e cumpre a maioria dos requisitos técnicos propostos.
 Espero que a tentativa e o esforço estejam visíveis no código. E muito obrigado, pessoal, pela grande oportunidade!
 
 

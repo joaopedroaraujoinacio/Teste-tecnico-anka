@@ -1,0 +1,34 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Client {
+  id      Int            @id @default(autoincrement())
+  name    String
+  email   String         @unique
+  status  Boolean
+  assets  ClientAsset[]  // relação com ativos
+}
+
+model Asset {
+  id      Int            @id @default(autoincrement())
+  name    String
+  value   Float
+  clients ClientAsset[]
+}
+
+model ClientAsset {
+  id        Int     @id @default(autoincrement())
+  client    Client  @relation(fields: [clientId], references: [id])
+  clientId  Int
+  asset     Asset   @relation(fields: [assetId], references: [id])
+  assetId   Int
+  quantity  Int     @default(1) // ✅ adicionado valor padrão
+
+  @@unique([clientId, assetId])
+}

@@ -47,6 +47,8 @@ Rode o servidor de desenvolvimento
 
 Assim, o projeto rodará.
 
+A configuração inicial do banco de dados (tabela Client) está incluída nas migrações do Prisma na pasta prisma/migrations.
+
 Aqui estão alguns screenshots da aplicação, mostrando as principais telas:
 
 <table style="width: 100%;">

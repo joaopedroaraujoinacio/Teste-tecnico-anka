@@ -66,7 +66,7 @@ Aqui estão alguns screenshots da aplicação, mostrando as principais telas:
     <td style="width: 50%; padding: 10px; vertical-align: top;">
       <img src="prints/3.png" alt="Descrição da Tela 3" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
       <br>
-      <p style="text-align: center;">Página de casdastrar novo cliente</p>
+      <p style="text-align: center;">Página de cadastrar novo cliente</p>
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: top;">
       <img src="prints/4.png" alt="Descrição da Tela 4" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
@@ -83,7 +83,7 @@ Aqui estão alguns screenshots da aplicação, mostrando as principais telas:
     <td style="width: 50%; padding: 10px; vertical-align: top;">
       <img src="prints/6.png" alt="Descrição da Tela 6" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
       <br>
-      <p style="text-align: center;">Página de gerenciar ativos do cliente com ativos marcados</p>
+      <p style="text-align: center;">Página de gerenciar ativos do cliente marcados</p>
     </td>
   </tr>
 </table>

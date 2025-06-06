@@ -45,6 +45,47 @@ Instale as dependências
 Rode o servidor de desenvolvimento
 >npm run dev
 
+Aqui estão algumas telas da aplicação, mostrando as principais funcionalidades:
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <img src="prints/1.png" alt="Descrição da Tela 1" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
+      <br>
+      <p style="text-align: center;">**Tela 1: [Página inicial]**</p>
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <img src="prints/2.png" alt="Descrição da Tela 2" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
+      <br>
+      <p style="text-align: center;">**Tela 2: [Página de listagem de clientes]**</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <img src="prints/3.png" alt="Descrição da Tela 3" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
+      <br>
+      <p style="text-align: center;">**Tela 3: [Página de casdastrar novo cliente]**</p>
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <img src="prints/4.png" alt="Descrição da Tela 4" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
+      <br>
+      <p style="text-align: center;">**Tela 4: [Página de editar cliente]**</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <img src="prints/5.png" alt="Descrição da Tela 5" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
+      <br>
+      <p style="text-align: center;">**Tela 5: [Página de gerenciar ativos do cliente]**</p>
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <img src="prints/6.png" alt="Descrição da Tela 6" style="width: 100%; max-width: 400px; display: block; margin: 0 auto;">
+      <br>
+      <p style="text-align: center;">**Tela 6: [Página de gerenciar ativos do cliente com ativos marcados]**</p>
+    </td>
+  </tr>
+</table>
+
 Considerações finais:
 e por fim, esse projeto, que seguiu a dica de ouro, está funcional localmente e cumpre a maioria dos requisitos técnicos propostos.
 Espero que a tentativa e o esforço estejam visíveis no código. E muito obrigado, pessoal, pela grande oportunidade!
